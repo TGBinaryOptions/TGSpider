@@ -1,0 +1,15 @@
+#Parameters for connecting to the database
+DATABASE:
+  port_db: '5432'
+  local_db_ip: '127.0.0.1'
+  #'127.0.0.1'
+  db_user:  'vim_admin'
+  db_password: 'vim'
+  db_name: 'telegram'
+TELEGRAM:
+  ACCOUNT_1:
+    api_id:  '20206750'
+    api_hash: '5aa01b0b4571107be6'
+    phone_number: '+3749557'
+    session_name: '1'
+    password: '11'
